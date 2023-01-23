@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban",
+      "author": "Yakup Kadri Karaosmanoglu",
+      "isbn": "111111111",
+      "categoryId": 1
+    },
+    {
+      "name": "Yeraltindan Notlar",
+      "author": "Dostoyevski",
+      "categoryId": "2",
+      "isbn": "111111112",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Denemelerr",
+      "author": "Montaigne",
+      "isbn": "111111113",
+      "categoryId": 3
+    },
+    {
+      "name": "Kizil nehirler",
+      "author": "Grange",
+      "categoryId": 1,
+      "isbn": "11111122",
+      "id": 1674234990853
+    },
+    {
+      "id": 1674471346427,
+      "name": "Leyleklerin Ucusu",
+      "isbn": "2134",
+      "author": "Grange",
+      "categoryId": "1"
+    },
+    {
+      "id": 1674471369670,
+      "name": "Satranc",
+      "isbn": "1233333333",
+      "author": "Stephan Zweig",
+      "categoryId": "1"
+    },
+    {
+      "id": 1674471395357,
+      "name": "Kasagi",
+      "isbn": "1222222222",
+      "author": "Ömer Seyfettin",
+      "categoryId": "2"
+    },
+    {
+      "id": 1674471436229,
+      "name": "Siyah Kan",
+      "isbn": "123445",
+      "author": "Grange",
+      "categoryId": "1"
+    },
+    {
+      "id": 1674471466568,
+      "name": "Yalniz Adam",
+      "isbn": "2134",
+      "author": "Hakan Kurlu",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Roman"
+    },
+    {
+      "id": 2,
+      "name": "Hikaye"
+    },
+    {
+      "id": 3,
+      "name": "Deneme"
+    },
+    {
+      "id": 1674300395564,
+      "name": "Siir"
+    }
+  ]
+}
